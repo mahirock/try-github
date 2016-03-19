@@ -6,5 +6,6 @@
   </head>
   <body>
     Git勉強会からGitHub勉強会の流れになりました。
+    頑張ります。
   </body>
 </html>
